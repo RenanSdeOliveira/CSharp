@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CSharpFundamentos.Models
+namespace CSharp.Models
 {
     public class Pessoa
     {
