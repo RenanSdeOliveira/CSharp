@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CSharpFundamentos/1.0.0": {
+      "CSharp/1.0.0": {
         "runtime": {
-          "CSharpFundamentos.dll": {}
+          "CSharp.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharpFundamentos/1.0.0": {
+    "CSharp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

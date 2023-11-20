@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSOS DEV\\DIO C#\\CSharpFundamentos\\CSharpFundamentos.csproj",
-      "projectName": "CSharpFundamentos",
-      "projectPath": "D:\\CURSOS DEV\\DIO C#\\CSharpFundamentos\\CSharpFundamentos.csproj",
+      "projectUniqueName": "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
+      "projectName": "CSharp",
+      "projectPath": "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSOS DEV\\DIO C#\\CSharpFundamentos\\obj\\",
+      "outputPath": "D:\\CURSOS DEV\\DIO C#\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
