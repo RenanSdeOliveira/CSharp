@@ -1,9 +1,20 @@
 ﻿using CSharp.Models;
+using System.Globalization;
 
 CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
-
-
+try
+{
+    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+    foreach(string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+} 
+catch(Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exceção. {ex.Message}");
+}
 
 
 
@@ -27,7 +38,7 @@ c.Multiplicar(a, b);
 c.Dividir(a, b);
 
 
-*/
+
 Pessoa p1 = new Pessoa("renan", "Oliveira");
 
 Pessoa p2 = new Pessoa("ruan", "Santos");

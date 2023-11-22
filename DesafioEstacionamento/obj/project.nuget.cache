@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CkhyXnMJzVm3OV8nDZknzuRc7+PIveQrqc2CHlTX/+oIU4jBreBdKC+Kd5RqAJRYyKkTeF7GWOjshZzNOY1biQ==",
+  "success": true,
+  "projectFilePath": "D:\\CURSOS DEV\\DIO C#\\CSharp\\DesafioEstacionamento\\DesafioEstacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

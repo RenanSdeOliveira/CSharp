@@ -1,0 +1,15 @@
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\bin\Debug\net6.0\DesafioEstacionamento.exe
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\bin\Debug\net6.0\DesafioEstacionamento.deps.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\bin\Debug\net6.0\DesafioEstacionamento.runtimeconfig.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\bin\Debug\net6.0\DesafioEstacionamento.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\bin\Debug\net6.0\DesafioEstacionamento.pdb
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfo.cs
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.sourcelink.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\refint\DesafioEstacionamento.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.pdb
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\DesafioEstacionamento.genruntimeconfig.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioEstacionamento\obj\Debug\net6.0\ref\DesafioEstacionamento.dll
