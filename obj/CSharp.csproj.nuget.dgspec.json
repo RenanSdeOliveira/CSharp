@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj": {}
+    "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "d:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj": {
+    "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "d:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
+        "projectPath": "D:\\CURSOS DEV\\DIO C#\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\CURSOS DEV\\DIO C#\\CSharp\\obj\\",
+        "outputPath": "D:\\CURSOS DEV\\DIO C#\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

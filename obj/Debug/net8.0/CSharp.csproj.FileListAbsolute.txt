@@ -1,0 +1,15 @@
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.sourcelink.json
+D:\CURSOS DEV\DIO C#\CSharp\bin\Debug\net8.0\CSharp.exe
+D:\CURSOS DEV\DIO C#\CSharp\bin\Debug\net8.0\CSharp.deps.json
+D:\CURSOS DEV\DIO C#\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+D:\CURSOS DEV\DIO C#\CSharp\bin\Debug\net8.0\CSharp.dll
+D:\CURSOS DEV\DIO C#\CSharp\bin\Debug\net8.0\CSharp.pdb
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.dll
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.pdb
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+D:\CURSOS DEV\DIO C#\CSharp\obj\Debug\net8.0\ref\CSharp.dll
