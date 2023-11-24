@@ -44,5 +44,6 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"RenanSdeOliveira_CSharp" /o:"renansdeoliveira" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build ./CSharp.sln --configuration Release
+          dotnet build ./DesafioEstacionamento/
+          dotnet build ./Teste/
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
