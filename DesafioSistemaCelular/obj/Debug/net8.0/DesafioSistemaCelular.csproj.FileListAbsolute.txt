@@ -1,0 +1,15 @@
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.AssemblyInfoInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.AssemblyInfo.cs
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.csproj.CoreCompileInputs.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.sourcelink.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\bin\Debug\net8.0\DesafioSistemaCelular.exe
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\bin\Debug\net8.0\DesafioSistemaCelular.deps.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\bin\Debug\net8.0\DesafioSistemaCelular.runtimeconfig.json
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\bin\Debug\net8.0\DesafioSistemaCelular.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\bin\Debug\net8.0\DesafioSistemaCelular.pdb
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\refint\DesafioSistemaCelular.dll
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.pdb
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\DesafioSistemaCelular.genruntimeconfig.cache
+D:\CURSOS DEV\DIO C#\CSharp\DesafioSistemaCelular\obj\Debug\net8.0\ref\DesafioSistemaCelular.dll
